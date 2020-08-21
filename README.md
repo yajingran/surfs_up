@@ -12,4 +12,6 @@ In this project, I used SQLite and Pandas to analyze the weather condition in Ha
 ## Summary of changes
 -Temperature in June is higher than it in December. However, the range of temperature in different month is not so wide. 
 
-![district_summary](Resources/district_summary.png)
+![june_temp](Resources/june_temp.png)
+
+![december_temp](Resources/december_temp.png)
